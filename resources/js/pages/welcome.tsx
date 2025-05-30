@@ -107,7 +107,7 @@ export default function Welcome() {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div className="glassmorphic p-6 rounded-2xl backdrop-blur-md bg-white/30 dark:bg-gray-800/30 border border-white/20 dark:border-gray-700">
                 <img
-                  src="https://abh.ai/cats/400/400"
+                  src="https://random-image-pepebigotes.vercel.app/api/random-image"
                   alt="MiNHAJ Portrait"
                   className="w-full h-auto rounded-xl shadow-lg"
                 />
@@ -254,28 +254,28 @@ export default function Welcome() {
               {[
                 {
                   title: 'SaaS Dashboard',
-                  img: 'https://abh.ai/cats/400/400',
+                  img: 'https://random-image-pepebigotes.vercel.app/api/random-image',
                   desc:
                     'A multi-tenant SaaS dashboard built with React, Tailwind, and Laravel 12. Real-time charts and role-based access.',
                   link: '#',
                 },
                 {
                   title: 'E-Commerce Platform',
-                  img: 'https://abh.ai/cats/400/400',
+                  img: 'https://random-image-pepebigotes.vercel.app/api/random-image',
                   desc:
                     'Full-featured e-commerce solution with Stripe integration, inventory management, and advanced search.',
                   link: '#',
                 },
                 {
                   title: 'Mobile Social App',
-                  img: 'https://abh.ai/cats/400/400',
+                  img: 'https://random-image-pepebigotes.vercel.app/api/random-image',
                   desc:
                     'Cross-platform React Native app with real-time chat, push notifications, and deep linking.',
                   link: '#',
                 },
                 {
                   title: 'IoT Dashboard',
-                  img: 'https://abh.ai/cats/400/400',
+                  img: 'https://random-image-pepebigotes.vercel.app/api/random-image',
                   desc:
                     'Real-time device monitoring and control panel using WebSockets and MQTT.',
                   link: '#',
@@ -311,19 +311,19 @@ export default function Welcome() {
               {[
                 {
                   title: 'Optimizing React Performance',
-                  img: 'https://abh.ai/cats/400/400',
+                  img: 'https://random-image-pepebigotes.vercel.app/api/random-image',
                   date: 'May 15, 2025',
                   link: '#',
                 },
                 {
                   title: 'Laravel 12 New Features',
-                  img: 'https://abh.ai/cats/400/400',
+                  img: 'https://random-image-pepebigotes.vercel.app/api/random-image',
                   date: 'April 28, 2025',
                   link: '#',
                 },
                 {
                   title: 'Deploying with Docker & Kubernetes',
-                  img: 'https://abh.ai/cats/400/400',
+                  img: 'https://random-image-pepebigotes.vercel.app/api/random-image',
                   date: 'March 10, 2025',
                   link: '#',
                 },
@@ -359,21 +359,21 @@ export default function Welcome() {
                 {
                   name: 'Alice Johnson',
                   role: 'CEO, TechCorp',
-                  avatar: 'https://abh.ai/cats/400/400',
+                  avatar: 'https://random-image-pepebigotes.vercel.app/api/random-image',
                   feedback:
                     'MiNHAJ delivered our enterprise dashboard ahead of schedule and with exceptional code quality. Highly recommended!',
                 },
                 {
                   name: 'David Lee',
                   role: 'CTO, FinServe',
-                  avatar: 'https://abh.ai/cats/400/400',
+                  avatar: 'https://random-image-pepebigotes.vercel.app/api/random-image',
                   feedback:
                     'His attention to detail and deep understanding of cloud architecture transformed our platform’s reliability.',
                 },
                 {
                   name: 'Sara Ahmed',
                   role: 'Product Manager, HealthPlus',
-                  avatar: 'https://abh.ai/cats/400/400',
+                  avatar: 'https://random-image-pepebigotes.vercel.app/api/random-image',
                   feedback:
                     'Professional, communicative, and extremely skilled—MiNHAJ is our go-to consultant for all things web.',
                 },
